@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Sneha Saxena
 
-<!--
-**SnehaaSaxena/SnehaaSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a college student from India, currently pursuing a **Bachelor of Technology in Computer Science & Engineering (CSE).**
 
-Here are some ideas to get you started:
+💡 I’m passionate about coding, solving real-world problems, and building impactful tech solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Full-stack web development using the **MERN stack**
+- 🌱 Currently learning: **React.js**, **Node.js**, **Express.js**, and **MongoDB**
+- 💻 Certified in: **Java** and **Data Structures & Algorithms** (Apna College, HackerRank)
+- ✨ Future goals:  
+  - Master backend architecture & API design  
+  - Explore the fields of **Machine Learning** and **Artificial Intelligence**  
+  - Contribute to open-source projects  
+  - Secure a strong placement in the tech industry  
+
+📫 Reach me at: **snehasaxena1904@gmail.com**  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/sneha-saxena12/)
+
+---
+
+> 💬 *“Consistency is the key. Every line of code, every step forward matters.”*
+
