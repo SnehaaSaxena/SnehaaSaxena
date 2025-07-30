@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **snehasaxena1904@gmail.com**
 
-- ⚡ Fun fact **I treat console.log like a therapist 🤖🧠**
+- ⚡ Fun fact:  **I treat console.log like a therapist 🤖🧠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
