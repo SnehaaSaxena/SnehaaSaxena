@@ -6,10 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="snehaasaxena" /> </p>
-
-<p align="left"> <a href="https://twitter.com/snehasaxen04" target="blank"><img src="https://img.shields.io/twitter/follow/snehasaxen04?logo=twitter&style=for-the-badge" alt="snehasaxen04" /></a> </p>
-
 - 🔭 I’m currently working on **Full-stack web development using the MERN stack**
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, and MongoDB**
